@@ -1,3 +1,3 @@
 # Climate
 
-## url:https://snekarajagopal.github.io/Climate/
+## URL:https://snekarajagopal.github.io/Climate/
